@@ -25,16 +25,16 @@ vi:
     one: "ngôn ngữ khác"
     other: "ngôn ngữ khác"
   w_share_email_with_author:
-    one: "Also share your email address with the author."
-    other: "Also share your email address with the authors."
+    one: "Công bố địa chỉ email của bạn với tác giả khác."
+    other: "Công bố địa chỉ email của bạn với tác giả khác."
 ############################################
 # With plurals above, without plurals below.
 ############################################
-  w_about_author: "About the Author"
-  w_about_authors: "About the Authors"
-  w_about_book: "About the Book"
-  w_about_editor: "About the Editor"
-  w_about_editors: "About the Editors"
+  w_about_author: "Về tác giả"
+  w_about_authors: "Về tác giả"
+  w_about_book: "Về cuốn sách"
+  w_about_editor: "Về người biên tập"
+  w_about_editors: "Về người biên tập"
   w_about_leanpub_bookstore_html: "Leanpub has a wide selection of in-progress and completed books available to browse, purchase, and enjoy."
   w_about_leanpub_html: "This Book is for Sale Through %{home_anchor}"
   w_about_leanpub_write_html: "Leanpub is free for authors and publishers to use. We pay authors or publishers 90% royalties minus 50 cents per sale."
