@@ -5,25 +5,25 @@
 # English
 # 2 letter code = en. 3 letter code = eng.
 ###
-en:
+vi:
   support:
     array:
-      last_word_connector: " and " # Used in to_sentence
+      last_word_connector: " và " # Used in to_sentence
   w_author_earns:
-    one: "Author earns"
-    other: "Authors earn"
+    one: "Tác giả thu được"
+    other: "Tác giả thu được"
   w_lang_srp: "Serbian"
-  w_lang_swe: "Swedish"
-  w_lang_tur: "Turkish"
+  w_lang_swe: "Thuỵ Điển"
+  w_lang_tur: "Thổ Nhĩ Kỳ"
   w_language:
-    one: "language"
-    other: "languages"
+    one: "ngôn ngữ"
+    other: "ngôn ngữ"
   w_other_books_by_this_author:
-    one: "Other books by this author"
-    other: "Other books by these authors"
+    one: "Sách cùng tác giả"
+    other: "Sách khác bởi cùng tác giả"
   w_other_language:
-    one: "other language"
-    other: "other languages"
+    one: "ngôn ngữ khác"
+    other: "ngôn ngữ khác"
   w_share_email_with_author:
     one: "Also share your email address with the author."
     other: "Also share your email address with the authors."
